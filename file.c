@@ -3,7 +3,7 @@
 	struct student 
 	{
 	  int rollno;
-	  char name[20];
+	  char name[15];
 	  double total;
 	};
 	
