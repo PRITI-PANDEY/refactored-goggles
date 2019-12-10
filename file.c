@@ -12,7 +12,7 @@
 	  printf("size=%d\n",sizeof(struct student));
 	  
 	  s1.rollno=101;
-	  strcpy(s1.name,"Scott");
+	  strcpy(s1.name,"Rahul");
 	  s1.total=80;
 	
 	  printf("Rollno=%d, name=%s,marks=%lf\n",
